@@ -1,4 +1,4 @@
-# Lesson 2 - Basic Operators, Positing
+# Lesson 2 - Basic Operators, Positioning
 
 # Basic Operators
 
@@ -59,3 +59,7 @@
 1. 使用数字重复
 2. 使用 **.**
 
+| z. |  | 翻屏，使当前行居中，光标在行首|
+| zz |  | 翻屏，使当前行居中 ，光标所在列不变|
+| C-D    |   |  下翻半屏（scroll）     |
+| C-F   |      | 下翻1屏   |
